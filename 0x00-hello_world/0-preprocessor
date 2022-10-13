@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE | cat > c
+echo $CFILE | cat main.c > c
